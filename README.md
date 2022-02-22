@@ -9,6 +9,7 @@ Selainlisäosa Chromium-pohjaisiin selaimiin. Lisäosa pyrkii sijoittamaan uudet
 <figcaption><em>Olen myös taiteilija!</em></figcaption>
 </figure>
 
+
 Lisäosan koko lähdekoodi on tässä - yksi rivi:
 
 ```javascript
@@ -42,6 +43,7 @@ Browser extension for Chromium based browsers. This extension tries to place new
 <img src="./extra-stuff/Store_Pic_640x400.png" width="640" height="400" alt="">
 <figcaption><em>I'm also an artist!</em></figcaption>
 </figure>
+
 
 The full source code for the extension is here - one line:
 
