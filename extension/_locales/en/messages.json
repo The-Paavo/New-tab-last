@@ -1,0 +1,8 @@
+{
+    "extensionName": {
+        "message": "New tabs last"
+    },
+    "extensionDesc": {
+        "message": "Puts new opened tabs always last."
+    }
+}
